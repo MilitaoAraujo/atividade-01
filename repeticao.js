@@ -1,4 +1,4 @@
-const nome = "javascript";// Definindo a variável nome com o valor "javascript"
+const nome = "python";// Definindo a variável nome com o valor "python"
 let controle = 0;// Inicializando a variável controle com 0
 for (let i = 0; i < nome.length; i++) {// Loop para percorrer cada letra da variável nome
     controle++;//adiciona 1 ao controle a cada iteração
